@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td><p align="justify">
-      As a <b>Chemical Engineer</b>, I’ve always been into coding and am a Programmer and Data Analyst. Hands-on experience with data modeling, <b>machine learning</b>, and problem-solving. I am skilled in <b>Python</b>, <b>MATLAB</b>, their packages, and toolboxes. Passionate about building models that fix problems and elaborate on data to make better decisions.
+      I’ve always been into coding and am a Programmer and Data Analyst. Hands-on experience with data modeling, <b>machine learning</b>, and problem-solving. I am skilled in <b>Python</b>, <b>MATLAB</b>, their packages, and toolboxes. Passionate about building models that fix problems and elaborate on data to make better decisions.
     </p></td>
   <td><p align="center">
     <img align="center" alt="GIF" src="https://github.com/ahadiyanhr/ahadiyanhr/blob/main/code.gif?raw=true" width = "350" />
